@@ -1,0 +1,4 @@
+C:\Users\nijer\Desktop\introprogramacion\arreglo1\obj\Debug\net10.0\arreglo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijer\Desktop\introprogramacion\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfoInputs.cache
+C:\Users\nijer\Desktop\introprogramacion\arreglo1\obj\Debug\net10.0\arreglo1.AssemblyInfo.cs
+C:\Users\nijer\Desktop\introprogramacion\arreglo1\obj\Debug\net10.0\arreglo1.csproj.CoreCompileInputs.cache
